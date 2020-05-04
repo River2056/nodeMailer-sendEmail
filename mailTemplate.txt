@@ -1,0 +1,3 @@
+// mail content starts below in new lines
+0001663 調整寫法, 追加log
+0001778 調整畫面預設選項, 調整顯示
